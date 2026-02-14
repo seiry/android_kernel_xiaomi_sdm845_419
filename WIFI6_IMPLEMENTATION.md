@@ -222,7 +222,8 @@ iw dev wlan0 link
 
 ### Android版本 (Android Version)
 - 基于Linux内核4.19
-- 支持Android 10及更高版本
+- 设计用于Android 10+（基于内核4.19的设备）
+- 具体Android版本支持取决于设备制造商的实现
 
 ### AP兼容性 (AP Compatibility)
 驱动程序设计为与所有标准兼容的WiFi 6 AP配合使用：
